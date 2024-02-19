@@ -2,5 +2,6 @@ mountpoints:
   /: https://drive.google.com/drive/folders/1x7gaKgtb-J-ClEJcM5GZkk6HcYt-Tuxu
 
 folders:
+  /article/category/: /article/category/default
+  /tags/: /tags/default
   /pet-adoption/: /pet-adoption/default
-  
