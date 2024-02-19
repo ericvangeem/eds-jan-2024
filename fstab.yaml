@@ -7,3 +7,4 @@ folders:
   /pet-adoption/cats/: /pet-adoption/default
   /pet-adoption/dogs/: /pet-adoption/default
   /pet-adoption/others/: /pet-adoption/default
+  /test/: /pet-adoption/default
